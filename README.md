@@ -4,4 +4,8 @@ more line
 
 sometimes 
 
+<<<<<<< HEAD
 branch master!!!
+=======
+branch feature!!!!
+>>>>>>> feature
